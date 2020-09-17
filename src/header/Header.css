@@ -1,0 +1,21 @@
+.header {
+    background-color:white;
+    display: block;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header__nav button{
+    background: #f0c14b;
+    border-radius: 2px;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}

@@ -1,0 +1,12 @@
+.SearchPage {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.SearchPage input {
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    width: 98%;
+}
